@@ -1,3 +1,5 @@
+[![DOI](https://data.msdlive.org/badge/DOI/10.57931/3015845.svg)](https://doi.org/10.57931/3015845)
+
 # Exploring HydroSMADE Dataset
 
 This repository contains an example Jupyter Notebook to explore the HydroSMADE (Hydropower Site-level Monthly Availability Data Ensemble) v1.0 dataset, publicly available on MSD LIVE at [this link](https://doi.org/10.57931/3015845).
