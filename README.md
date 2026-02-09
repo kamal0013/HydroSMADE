@@ -32,5 +32,5 @@ The repository contains a total of 122 files: a text file (readme.txt) containin
 
 If you use HydroSMADE, please cite the following paper that describes the methods and technical validation of the data:
 
-Chowdhury, A. K., Abeshu, G. W., Zhao, M., Wild, T. B., Hassan, N., Ying, Z., Kim, G. J., Matthew, B., Jonathan, L., & Li, H.-Y. (Submitted). HydroSMADE: Hydropower Site-level Monthly Availability Data Ensemble for 1950-2100 at Existing and Potential Global Sites. 
+Chowdhury, A. K., Abeshu, G. W., Zhao, M., Wild, T. B., Hassan, N., Ying, Z., Kim, G. J., Matthew, B., Jonathan, L., & Li, H.-Y. (Submitted). Hydropower Site-level Monthly Availability Data Ensemble for 1950-2100 at Existing and Potential Global Sites. 
 
